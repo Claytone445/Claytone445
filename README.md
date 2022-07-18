@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @Claytone445 or YellowCode, I'm a frontend developer, also I have computer science bachelor degree, my tech stack is html, css, js, vue.js.
 - 👀 I’m interested in frontend proggramming, bike, reading, meditation.
 - 🌱 I’m currently learning , javascripts and vue.js
-- 💞️ I’m looking for work.
+- 💞️ I’m workin on website builder.
 - 📫 How to reach me -  brukva90@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
