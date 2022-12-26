@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- 👋 Hi, I’m @Claytone445 or YellowCode, I'm a frontend developer, also I have computer science bachelor degree, my tech stack is html, css, js, vue.js.
+- 👋 Hi, I’m @Claytone445 or YellowCode, I'm a frontend developer, also I have computer science bachelor degree, my tech stack is html, css, js, vue.js, nuxt.js.
 - 👀 I’m interested in frontend proggramming, bike, reading, meditation.
-- 🌱 I’m currently learning , javascripts and vue.js
-- 💞️ I’m working on website builder.
+- 🌱 I’m currently learning , javascripts and vue.js.
+- 💞️ I’m looking for a job.
 - 📫 How to reach me -  brukva90@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
